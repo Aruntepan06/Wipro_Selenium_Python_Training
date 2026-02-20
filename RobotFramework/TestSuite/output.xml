@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.4.1 (Python 3.13.12 on darwin)" generated="2026-02-18T15:07:45.224741" rpa="false" schemaversion="5">
+<suite id="s1" name="SuitelevelST" source="/Users/arunkumartepan/PycharmProjects/RobotFramework/TestSuite/SuitelevelST.robot">
+<kw name="Launch Open_DB" owner="Resource" type="SETUP">
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T15:07:45.370545" level="INFO">Opening the DB</msg>
+<arg>Opening the DB</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T15:07:45.370339" elapsed="0.000257"/>
+</kw>
+<status status="PASS" start="2026-02-18T15:07:45.369818" elapsed="0.000861"/>
+</kw>
+<test id="s1-t1" name="Verify login with valid credentials" line="13">
+<kw name="Login" owner="Resource">
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T15:07:45.371412" level="INFO">Enter username</msg>
+<arg>Enter username</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T15:07:45.371220" elapsed="0.000389"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T15:07:45.372280" level="INFO">Enter password</msg>
+<arg>Enter password</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T15:07:45.371853" elapsed="0.000466"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T15:07:45.372523" level="INFO">Click on login button</msg>
+<arg>Click on login button</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T15:07:45.372400" elapsed="0.000152"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T15:07:45.373108" level="INFO">User is on the home page</msg>
+<arg>User is on the home page</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T15:07:45.372617" elapsed="0.000525"/>
+</kw>
+<status status="PASS" start="2026-02-18T15:07:45.371056" elapsed="0.002140"/>
+</kw>
+<status status="PASS" start="2026-02-18T15:07:45.370739" elapsed="0.002585"/>
+</test>
+<test id="s1-t2" name="Verify Add to cart functionality" line="16">
+<kw name="Login" owner="Resource">
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T15:07:45.374023" level="INFO">Enter username</msg>
+<arg>Enter username</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T15:07:45.373898" elapsed="0.000155"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T15:07:45.374220" level="INFO">Enter password</msg>
+<arg>Enter password</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T15:07:45.374117" elapsed="0.000147"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T15:07:45.374533" level="INFO">Click on login button</msg>
+<arg>Click on login button</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T15:07:45.374427" elapsed="0.000133"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T15:07:45.374725" level="INFO">User is on the home page</msg>
+<arg>User is on the home page</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T15:07:45.374619" elapsed="0.000132"/>
+</kw>
+<status status="PASS" start="2026-02-18T15:07:45.373758" elapsed="0.001033"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T15:07:45.375102" level="INFO">User selects the product</msg>
+<arg>User selects the product</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T15:07:45.374922" elapsed="0.000223"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T15:07:45.375432" level="INFO">User adds the product to the cart</msg>
+<arg>User adds the product to the cart</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T15:07:45.375269" elapsed="0.000199"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T15:07:45.375687" level="INFO">User verifies that the product with details is added to the cart</msg>
+<arg>User verifies that the product with details is added to the cart</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T15:07:45.375564" elapsed="0.000153"/>
+</kw>
+<status status="PASS" start="2026-02-18T15:07:45.373514" elapsed="0.002302"/>
+</test>
+<kw name="Launch Close_DB" owner="Resource" type="TEARDOWN">
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T15:07:45.376541" level="INFO">Closing the DB</msg>
+<arg>Closing the DB</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T15:07:45.376373" elapsed="0.000222"/>
+</kw>
+<status status="PASS" start="2026-02-18T15:07:45.376211" elapsed="0.000440"/>
+</kw>
+<status status="PASS" start="2026-02-18T15:07:45.226170" elapsed="0.150506"/>
+</suite>
+<statistics>
+<total>
+<stat pass="2" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="SuitelevelST" id="s1" pass="2" fail="0" skip="0">SuitelevelST</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

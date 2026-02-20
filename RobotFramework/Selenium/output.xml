@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.4.1 (Python 3.13.12 on darwin)" generated="2026-02-19T12:58:56.579746" rpa="false" schemaversion="5">
+<suite id="s1" name="DownloadFile" source="/Users/arunkumartepan/PycharmProjects/RobotFramework/Selenium/DownloadFile.robot">
+<test id="s1-t1" name="Verify File Download Link" line="11">
+<kw name="Open Browser" owner="SeleniumLibrary">
+<msg time="2026-02-19T12:58:56.748106" level="INFO">Opening browser 'chrome' to base url 'https://the-internet.herokuapp.com/download'.</msg>
+<arg>${url}</arg>
+<arg>chrome</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<status status="PASS" start="2026-02-19T12:58:56.747903" elapsed="6.178136"/>
+</kw>
+<kw name="Maximize Browser Window" owner="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" start="2026-02-19T12:59:02.927849" elapsed="0.342971"/>
+</kw>
+<kw name="Wait Until Element Is Visible" owner="SeleniumLibrary">
+<arg>xpath://a[normalize-space()='sample-zip-file.zip']</arg>
+<doc>Waits until the element ``locator`` is visible.</doc>
+<status status="PASS" start="2026-02-19T12:59:03.271443" elapsed="0.025570"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2026-02-19T12:59:03.297899" level="INFO">Clicking element 'xpath://a[normalize-space()='sample-zip-file.zip']'.</msg>
+<arg>xpath://a[normalize-space()='sample-zip-file.zip']</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-19T12:59:03.297282" elapsed="0.420358"/>
+</kw>
+<kw name="Wait Until Keyword Succeeds" owner="BuiltIn">
+<kw name="File Should Exist" owner="OperatingSystem">
+<msg time="2026-02-19T12:59:03.723205" level="FAIL">File '/Users/arunkumartepan/Downloads/sample-zip-file.zip' does not exist.</msg>
+<arg>${DOWNLOAD_DIR}/sample-zip-file.zip</arg>
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<status status="FAIL" start="2026-02-19T12:59:03.720715" elapsed="0.002869">File '/Users/arunkumartepan/Downloads/sample-zip-file.zip' does not exist.</status>
+</kw>
+<kw name="File Should Exist" owner="OperatingSystem">
+<msg time="2026-02-19T12:59:04.734417" level="INFO" html="true">File '&lt;a href="file:///Users/arunkumartepan/Downloads/sample-zip-file.zip"&gt;/Users/arunkumartepan/Downloads/sample-zip-file.zip&lt;/a&gt;' exists.</msg>
+<arg>${DOWNLOAD_DIR}/sample-zip-file.zip</arg>
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<status status="PASS" start="2026-02-19T12:59:04.729341" elapsed="0.005385"/>
+</kw>
+<arg>10x</arg>
+<arg>1s</arg>
+<arg>File Should Exist</arg>
+<arg>${DOWNLOAD_DIR}/sample-zip-file.zip</arg>
+<doc>Runs the specified keyword and retries if it fails.</doc>
+<status status="PASS" start="2026-02-19T12:59:03.718348" elapsed="1.016636"/>
+</kw>
+<kw name="List Files In Directory" owner="OperatingSystem">
+<msg time="2026-02-19T12:59:04.735710" level="INFO" html="true">Listing contents of directory '&lt;a href="file:///Users/arunkumartepan/Downloads"&gt;/Users/arunkumartepan/Downloads&lt;/a&gt;'.</msg>
+<msg time="2026-02-19T12:59:08.624818" level="INFO">77 files:
+.DS_Store
+.localized
+0.jpg
+1.jpg
+14bf4e4e-d343-4618-989f-51424d22fd67.pdf
+2.jpg
+3.jpg
+4.jpg
+881152169633551_signed.pdf
+AF_Mcqs.docx
+ARUN.JPG
+Aadhar Card.pdf
+BeautifulSoup_Mcqs.docx
+Cancel Cheque - Prem Chand Tepan.pdf
+Cancel Cheque.jpg
+ChatGPT Image Feb 16, 2026, 09_28_26 PM.png
+ChatGPT Image Feb 16, 2026, 09_31_15 PM.png
+CommunicationSkills_MansiTepan_2502051010.pptx
+Copy of FREE Template Scrapbook Carousel (1).png
+Copy of FREE Template Scrapbook Carousel.png
+DRAFT AGREEMENT FOR AGENT.pdf
+Doselect+Secure+Browser.dmg
+IMG_1016.MOV
+IMG_1040.MOV
+IMG_1055.MOV
+IMG_1101.MOV
+IMG_1102.MOV
+IMG_1106.MOV
+IMG_1108.MOV
+IMG_1112.mov
+IMG_1113.mov
+IMG_1117.MOV
+IMG_1118.MOV
+IMG_1121.MOV
+IMG_1138.MOV
+IMG_1179.MOV
+IMG_1180.MOV
+IMG_1181.MOV
+IMG_1201.MOV
+IMG_5237.jpg
+L2 Sanskar-Education.pdf
+L3 Right Understanding.pdf
+L4 Aspiration and Concerns.pdf
+L5 Health.pdf
+L6Harmony.pdf
+L7 Relationship.pdf
+Mansi's PanCard.pdf
+Pre-Skilling-Guidelines-Survey.docx
+ProtonVPN_mac_v6.0.0.dmg
+ProtonVPN_mac_v6.1.0.dmg
+Pytest_MCQs.docx
+RestAPI_CaseStudies.docx
+Resume_U.pdf
+S1.xls
+Screen Recording 2025-11-16 at 7.23.25 PM.mov
+Vivah {2006} {Blu-ray} {10bit-HEVC} {5.1 Dolby Digital Cinema Audio} .mp4
+__ BillDesk Payment Gateway __.pdf
+dealar agriment.docx
+dealar agriment.pdf
+differenec.xlsx
+drive-download-20251116T150659Z-1-001.zip
+joel.JPG
+linkedin-sales-solutions-IjkIOe-2fF4-unsplash.jpg
+passport.jpg
+pexels-aarti-vijay-1207504-2900315 (1).jpg
+resume.pdf
+sample-zip-file.zip
+~$DUSTRIAL TRAINING REPORT.docx
+~$Parker.docx
+~$S LAB REPORT.pdf
+~$SUME (1).docx
+~$W REPORT.docx
+~$ivam_Agarwal_MajorProject_Report.docx
+~$pyright_Office_APPLICATION.docx
+~$rthak Gangwar_219301534_Fortnightly Report 2.docx
+~$rthakGangwar_219301534.doc
+~$लर एग्रीमेंट श्री राम पाईप फैक्ट्री - Copy.docx</msg>
+<msg time="2026-02-19T12:59:08.633336" level="INFO">${files} = ['.DS_Store', '.localized', '0.jpg', '1.jpg', '14bf4e4e-d343-4618-989f-51424d22fd67.pdf', '2.jpg', '3.jpg', '4.jpg', '881152169633551_signed.pdf', 'AF_Mcqs.docx', 'ARUN.JPG', 'Aadhar Card.pdf', 'Beaut...</msg>
+<var>${files}</var>
+<arg>${DOWNLOAD_DIR}</arg>
+<doc>Wrapper for `List Directory` that returns only files.</doc>
+<status status="PASS" start="2026-02-19T12:59:04.735453" elapsed="3.898001"/>
+</kw>
+<kw name="List Should Contain Value" owner="Collections">
+<arg>${files}</arg>
+<arg>sample-zip-file.zip</arg>
+<doc>Fails if the ``value`` is not found from ``list``.</doc>
+<status status="PASS" start="2026-02-19T12:59:08.633845" elapsed="0.004964"/>
+</kw>
+<kw name="Close Browser" owner="SeleniumLibrary">
+<doc>Closes the current browser.</doc>
+<status status="PASS" start="2026-02-19T12:59:08.639578" elapsed="0.098150"/>
+</kw>
+<status status="PASS" start="2026-02-19T12:58:56.747021" elapsed="11.991244"/>
+</test>
+<status status="PASS" start="2026-02-19T12:58:56.581286" elapsed="12.157958"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="DownloadFile" id="s1" pass="1" fail="0" skip="0">DownloadFile</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

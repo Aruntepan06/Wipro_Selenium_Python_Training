@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.4.1 (Python 3.13.12 on darwin)" generated="2026-02-18T12:04:01.377777" rpa="false" schemaversion="5">
+<suite id="s1" name="Variables Practice" source="/Users/arunkumartepan/PycharmProjects/RobotFramework/LabSession/Day12_Feb18/variables_practice.robot">
+<test id="s1-t1" name="Variables Practice" line="11">
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T12:04:01.410817" level="INFO">Arun</msg>
+<arg>${NAME}</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T12:04:01.410558" elapsed="0.000313"/>
+</kw>
+<kw name="Set Variable" owner="BuiltIn">
+<msg time="2026-02-18T12:04:01.411180" level="INFO">${num1} = 10</msg>
+<var>${num1}</var>
+<arg>10</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<status status="PASS" start="2026-02-18T12:04:01.411003" elapsed="0.000197"/>
+</kw>
+<kw name="Set Variable" owner="BuiltIn">
+<msg time="2026-02-18T12:04:01.411439" level="INFO">${num2} = 20</msg>
+<var>${num2}</var>
+<arg>20</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<status status="PASS" start="2026-02-18T12:04:01.411293" elapsed="0.000163"/>
+</kw>
+<kw name="Evaluate" owner="BuiltIn">
+<msg time="2026-02-18T12:04:01.411769" level="INFO">${sum} = 30</msg>
+<var>${sum}</var>
+<arg>${num1} + ${num2}</arg>
+<doc>Evaluates the given expression in Python and returns the result.</doc>
+<status status="PASS" start="2026-02-18T12:04:01.411536" elapsed="0.000250"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T12:04:01.412001" level="INFO">30</msg>
+<arg>${sum}</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T12:04:01.411863" elapsed="0.000165"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T12:04:01.412220" level="INFO">I live in Jaipur</msg>
+<arg>I live in ${CITY}</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T12:04:01.412095" elapsed="0.000149"/>
+</kw>
+<kw name="Set Variable" owner="BuiltIn">
+<msg time="2026-02-18T12:04:01.412434" level="INFO">${NAME} = John</msg>
+<var>${NAME}</var>
+<arg>John</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<status status="PASS" start="2026-02-18T12:04:01.412310" elapsed="0.000139"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T12:04:01.412628" level="INFO">Updated name is John</msg>
+<arg>Updated name is ${NAME}</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T12:04:01.412514" elapsed="0.000138"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T12:04:01.412870" level="INFO">Apple</msg>
+<arg>${FRUITS}[0]</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T12:04:01.412715" elapsed="0.000179"/>
+</kw>
+<for flavor="IN">
+<iter>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T12:04:01.413253" level="INFO">Apple</msg>
+<arg>${fruit}</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T12:04:01.413133" elapsed="0.000144"/>
+</kw>
+<var name="${fruit}">Apple</var>
+<status status="PASS" start="2026-02-18T12:04:01.413086" elapsed="0.000233"/>
+</iter>
+<iter>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T12:04:01.413672" level="INFO">Banana</msg>
+<arg>${fruit}</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T12:04:01.413495" elapsed="0.000210"/>
+</kw>
+<var name="${fruit}">Banana</var>
+<status status="PASS" start="2026-02-18T12:04:01.413418" elapsed="0.000312"/>
+</iter>
+<iter>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T12:04:01.413977" level="INFO">Mango</msg>
+<arg>${fruit}</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T12:04:01.413841" elapsed="0.000163"/>
+</kw>
+<var name="${fruit}">Mango</var>
+<status status="PASS" start="2026-02-18T12:04:01.413790" elapsed="0.000235"/>
+</iter>
+<var>${fruit}</var>
+<value>@{FRUITS}</value>
+<status status="PASS" start="2026-02-18T12:04:01.412966" elapsed="0.001133"/>
+</for>
+<kw name="Get Length" owner="BuiltIn">
+<msg time="2026-02-18T12:04:01.414423" level="INFO">Length is 3.</msg>
+<msg time="2026-02-18T12:04:01.414471" level="INFO">${length} = 3</msg>
+<var>${length}</var>
+<arg>${FRUITS}</arg>
+<doc>Returns and logs the length of the given item as an integer.</doc>
+<status status="PASS" start="2026-02-18T12:04:01.414191" elapsed="0.000294"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T12:04:01.414692" level="INFO">3</msg>
+<arg>${length}</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T12:04:01.414564" elapsed="0.000153"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T12:04:01.414915" level="INFO">Arun</msg>
+<arg>${USER}[name]</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T12:04:01.414784" elapsed="0.000155"/>
+</kw>
+<kw name="Set To Dictionary" owner="Collections">
+<arg>${USER}</arg>
+<arg>city=Jaipur</arg>
+<doc>Adds the given ``key_value_pairs`` and/or ``items`` to the ``dictionary``.</doc>
+<status status="PASS" start="2026-02-18T12:04:01.415004" elapsed="0.000144"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T12:04:01.415340" level="INFO">Jaipur</msg>
+<arg>${USER}[city]</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T12:04:01.415216" elapsed="0.000151"/>
+</kw>
+<for flavor="IN">
+<iter>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T12:04:01.415732" level="INFO">name = Arun</msg>
+<arg>${key} = ${value}</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T12:04:01.415562" elapsed="0.000195"/>
+</kw>
+<var name="${key}">name</var>
+<var name="${value}">Arun</var>
+<status status="PASS" start="2026-02-18T12:04:01.415521" elapsed="0.000255"/>
+</iter>
+<iter>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T12:04:01.416045" level="INFO">age = 24</msg>
+<arg>${key} = ${value}</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T12:04:01.415885" elapsed="0.000184"/>
+</kw>
+<var name="${key}">age</var>
+<var name="${value}">24</var>
+<status status="PASS" start="2026-02-18T12:04:01.415833" elapsed="0.000255"/>
+</iter>
+<iter>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T12:04:01.416337" level="INFO">city = Jaipur</msg>
+<arg>${key} = ${value}</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T12:04:01.416180" elapsed="0.000186"/>
+</kw>
+<var name="${key}">city</var>
+<var name="${value}">Jaipur</var>
+<status status="PASS" start="2026-02-18T12:04:01.416141" elapsed="0.000244"/>
+</iter>
+<var>${key}</var>
+<var>${value}</var>
+<value>&amp;{USER}</value>
+<status status="PASS" start="2026-02-18T12:04:01.415414" elapsed="0.000990"/>
+</for>
+<status status="PASS" start="2026-02-18T12:04:01.409833" elapsed="0.006660"/>
+</test>
+<status status="PASS" start="2026-02-18T12:04:01.379428" elapsed="0.037308"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="Variables Practice" id="s1" pass="1" fail="0" skip="0">Variables Practice</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
