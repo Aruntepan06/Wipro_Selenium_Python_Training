@@ -1,0 +1,55 @@
+1771570778860	geckodriver	INFO	Listening on 127.0.0.1:57312
+1771570778882	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/Users/arunkumartepan/ ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/zg/x4xn81zn2qsdc4vy6dk_gw540000gn/T/rust_mozprofilesSHGYj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1771570779880	Marionette	INFO	Marionette enabled
+2026-02-20 06:59:40.032 Firefox GPU Helper[76445:707587] Failure on line 686 in function id scheduleApplicationNotification(LSNotificationCode, NSWorkspaceNotificationCenter *): noErr == _LSModifyNotification(notificationID, 1, &code, 0, NULL, NULL, NULL)
+2026-02-20 06:59:40.130 Firefox GPU Helper[76445:707598] Connection Invalid error for service com.apple.hiservices-xpcservice.
+2026-02-20 06:59:40.130 Firefox GPU Helper[76445:707587] Error received in message reply handler: Connection invalid
+1771570780204	Marionette	INFO	Listening on port 57318
+Read port: 57318
+WebDriver BiDi listening on ws://127.0.0.1:57313
+1771570780392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript warning: https://1c5c1ecf7303.e10058c8.ap-south-1.token.awswaf.com/1c5c1ecf7303/6ab7d267eef9/66125abca348/challenge.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://1c5c1ecf7303.e10058c8.ap-south-1.token.awswaf.com/1c5c1ecf7303/6ab7d267eef9/66125abca348/challenge.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/, line 3767: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1771570784448	Marionette	INFO	Stopped listening on port 57318
+JavaScript warning: https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors, line 39: Script terminated by timeout at:
+I@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:39:1906
+4373/e.exports</t.prototype.render@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:24:310462
+ns@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:14:70820
+ts@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:14:70616
+Ms@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:14:105481
+Lu@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:14:90152
+Nu@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:14:90075
+Su@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:14:87423
+2551/ta/<@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:14:45899
+8731/t.unstable_runWithPriority@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:74:2980
+Qi@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:14:45609
+ta@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:14:45847
+ea@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:14:45780
+wu@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:14:87717
+notify@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:1:712
+notifyNestedSubs@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:1:1122
+i@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:1:547
+v@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:24:119059
+6986/q/d/</<@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:58:205639
+dispatch@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:24:122436
+8768/T/<@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:74:7850
+6986/P[o.P]/<@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:58:198695
+f@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:58:196631
+g@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:58:196821
+p@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:58:196680
+6986/P[o.P]@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:58:198651
+6986/W/c<@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:58:203284
+m@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:58:204214
+h@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:58:203740
+u@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:58:203997
+6986/P[o.S]@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:58:200719
+6986/W/c<@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:58:203284
+m@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:58:204214
+h@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:58:203740
+u@https://m.media-amazon.com/images/S/sash/KYVTJsU-DCeLJzW.js?name=vendors:58:203997
+
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.

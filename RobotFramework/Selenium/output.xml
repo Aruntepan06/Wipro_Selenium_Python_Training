@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.4.1 (Python 3.13.12 on darwin)" generated="2026-02-20T12:53:10.799622" rpa="false" schemaversion="5">
+<suite id="s1" name="Tabs" source="/Users/arunkumartepan/PycharmProjects/RobotFramework/Selenium/Tabs.robot">
+<test id="s1-t1" name="Verify link texts" line="8">
+<kw name="Open Browser" owner="SeleniumLibrary">
+<msg time="2026-02-20T12:53:10.949441" level="INFO">Opening browser 'chrome' to base url 'https://the-internet.herokuapp.com/windows'.</msg>
+<arg>${url}</arg>
+<arg>chrome</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<status status="PASS" start="2026-02-20T12:53:10.949209" elapsed="6.888325"/>
+</kw>
+<kw name="Maximize Browser Window" owner="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" start="2026-02-20T12:53:17.840784" elapsed="0.350875"/>
+</kw>
+<kw name="Set Selenium Implicit Wait" owner="SeleniumLibrary">
+<arg>5s</arg>
+<doc>Sets the implicit wait value used by Selenium.</doc>
+<status status="PASS" start="2026-02-20T12:53:18.191874" elapsed="0.001074"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2026-02-20T12:53:18.193690" level="INFO">Clicking element 'link=Click Here'.</msg>
+<arg>link=Click Here</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-20T12:53:18.193121" elapsed="0.086414"/>
+</kw>
+<kw name="Get Window Handles" owner="SeleniumLibrary">
+<msg time="2026-02-20T12:53:18.286141" level="INFO">@{windows} = [ 306FCAA4F7A5BD832FD3632A95CDD8B9 | 40CEBBC67DEC85D1DFBDF61E609F115F ]</msg>
+<var>@{windows}</var>
+<doc>Returns all child window handles of the selected browser as a list.</doc>
+<status status="PASS" start="2026-02-20T12:53:18.279876" elapsed="0.006312"/>
+</kw>
+<kw name="Log To Console" owner="BuiltIn">
+<arg>${windows}</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2026-02-20T12:53:18.286412" elapsed="0.000625"/>
+</kw>
+<kw name="Get Window Titles" owner="SeleniumLibrary">
+<msg time="2026-02-20T12:53:18.597261" level="INFO">Altogether 2 items.
+1: The Internet
+2: New Window</msg>
+<msg time="2026-02-20T12:53:18.597470" level="INFO">@{titles} = [ The Internet | New Window ]</msg>
+<var>@{titles}</var>
+<doc>Returns and logs titles of all windows of the selected browser.</doc>
+<status status="PASS" start="2026-02-20T12:53:18.287217" elapsed="0.310281"/>
+</kw>
+<kw name="Log To Console" owner="BuiltIn">
+<arg>${titles}</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2026-02-20T12:53:18.597693" elapsed="0.000284"/>
+</kw>
+<kw name="Switch Window" owner="SeleniumLibrary">
+<arg>title=New Window</arg>
+<doc>Switches to browser window matching ``locator``.</doc>
+<status status="PASS" start="2026-02-20T12:53:18.598153" elapsed="0.031303"/>
+</kw>
+<kw name="Element Text Should Be" owner="SeleniumLibrary">
+<msg time="2026-02-20T12:53:18.629919" level="INFO">Verifying element 'xpath://h3[contains(text(),'New Window')]' contains exact text 'New Window'.</msg>
+<arg>xpath://h3[contains(text(),'New Window')]</arg>
+<arg>New Window</arg>
+<doc>Verifies that element ``locator`` contains exact the text ``expected``.</doc>
+<status status="PASS" start="2026-02-20T12:53:18.629676" elapsed="0.021186"/>
+</kw>
+<kw name="Switch Window" owner="SeleniumLibrary">
+<arg>MAIN</arg>
+<doc>Switches to browser window matching ``locator``.</doc>
+<status status="PASS" start="2026-02-20T12:53:18.651062" elapsed="0.006806"/>
+</kw>
+<kw name="Close Browser" owner="SeleniumLibrary">
+<doc>Closes the current browser.</doc>
+<status status="PASS" start="2026-02-20T12:53:18.658096" elapsed="0.080897"/>
+</kw>
+<status status="PASS" start="2026-02-20T12:53:10.948413" elapsed="7.791266"/>
+</test>
+<status status="PASS" start="2026-02-20T12:53:10.800916" elapsed="7.940020"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="Tabs" id="s1" pass="1" fail="0" skip="0">Tabs</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

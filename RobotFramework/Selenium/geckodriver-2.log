@@ -1,0 +1,20 @@
+1771565844402	geckodriver	INFO	Listening on 127.0.0.1:56632
+1771565844479	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/Users/arunkumartepan/ ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/zg/x4xn81zn2qsdc4vy6dk_gw540000gn/T/rust_mozprofileLmetlD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1771565845713	Marionette	INFO	Marionette enabled
+1771565846214	Marionette	INFO	Listening on port 56640
+Read port: 56640
+2026-02-20 05:37:26.265 Firefox GPU Helper[64180:612534] Failure on line 686 in function id scheduleApplicationNotification(LSNotificationCode, NSWorkspaceNotificationCenter *): noErr == _LSModifyNotification(notificationID, 1, &code, 0, NULL, NULL, NULL)
+WebDriver BiDi listening on ws://127.0.0.1:56633
+2026-02-20 05:37:26.535 Firefox GPU Helper[64180:612552] Connection Invalid error for service com.apple.hiservices-xpcservice.
+2026-02-20 05:37:26.535 Firefox GPU Helper[64180:612534] Error received in message reply handler: Connection invalid
+1771565846548	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript warning: https://1c5c1ecf7303.e10058c8.ap-south-1.token.awswaf.com/1c5c1ecf7303/6ab7d267eef9/66125abca348/challenge.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://1c5c1ecf7303.e10058c8.ap-south-1.token.awswaf.com/1c5c1ecf7303/6ab7d267eef9/66125abca348/challenge.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/, line 3712: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81BXdoJ-FBL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/mobile-phones/b/?ie=UTF8&node=1389401031&ref_=nav_cs_mobiles, line 20105: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1771565858127	Marionette	INFO	Stopped listening on port 56640
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
