@@ -1,0 +1,650 @@
+2026-03-06 18:11:09,314 - INFO - xdist worker is: gw0
+2026-03-06 18:11:09,314 - INFO - xdist worker is: gw2
+2026-03-06 18:11:09,314 - INFO - xdist worker is: gw1
+2026-03-06 18:11:09,314 - INFO - xdist worker is: gw2
+2026-03-06 18:11:09,314 - INFO - xdist worker is: gw1
+2026-03-06 18:11:09,314 - INFO - xdist worker is: gw2
+2026-03-06 18:11:09,314 - INFO - xdist worker is: gw1
+2026-03-06 18:11:09,314 - INFO - xdist worker is: gw2
+2026-03-06 18:11:09,314 - INFO - xdist worker is: gw1
+2026-03-06 18:11:09,314 - INFO - xdist worker is: gw2
+2026-03-06 18:11:09,314 - INFO - xdist worker is: gw1
+2026-03-06 18:11:09,315 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:09,314 - INFO - xdist worker is: gw0
+2026-03-06 18:11:09,315 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:09,315 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:09,314 - INFO - xdist worker is: gw0
+2026-03-06 18:11:09,315 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:09,314 - INFO - xdist worker is: gw0
+2026-03-06 18:11:09,315 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:09,315 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:09,314 - INFO - xdist worker is: gw0
+2026-03-06 18:11:09,316 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:09,316 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:09,316 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:09,316 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:09,316 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:09,315 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:09,315 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:09,315 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:09,315 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:09,597 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:09,597 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:09,597 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:09,597 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:09,597 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:09,597 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:09,597 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:09,597 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:09,597 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:09,597 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:09,597 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:09,597 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:09,597 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:09,597 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:09,597 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:09,754 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:09,754 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:09,754 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:09,754 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:09,754 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:09,893 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:09,893 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:09,893 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:09,893 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:09,893 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:10,263 - INFO - WebDriver version 145.0.7632.117 selected
+2026-03-06 18:11:10,263 - INFO - WebDriver version 145.0.7632.117 selected
+2026-03-06 18:11:10,263 - INFO - WebDriver version 145.0.7632.117 selected
+2026-03-06 18:11:10,263 - INFO - WebDriver version 145.0.7632.117 selected
+2026-03-06 18:11:10,263 - INFO - WebDriver version 145.0.7632.117 selected
+2026-03-06 18:11:10,268 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-06 18:11:10,268 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-06 18:11:10,268 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-06 18:11:10,268 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-06 18:11:10,268 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-06 18:11:10,268 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-06 18:11:10,268 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-06 18:11:10,268 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-06 18:11:10,268 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-06 18:11:10,268 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-06 18:11:10,337 - INFO - Driver downloading response is 200
+2026-03-06 18:11:10,337 - INFO - Driver downloading response is 200
+2026-03-06 18:11:10,337 - INFO - Driver downloading response is 200
+2026-03-06 18:11:10,337 - INFO - Driver downloading response is 200
+2026-03-06 18:11:10,337 - INFO - Driver downloading response is 200
+2026-03-06 18:11:10,576 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:10,576 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:10,576 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:10,576 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:10,576 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:10,752 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:10,752 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:10,752 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:10,752 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:10,752 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:10,799 - INFO - Driver has been saved in cache [/Users/arunkumartepan/.wdm/gw0/drivers/chromedriver/mac64/145.0.7632.117]
+2026-03-06 18:11:10,799 - INFO - Driver has been saved in cache [/Users/arunkumartepan/.wdm/gw0/drivers/chromedriver/mac64/145.0.7632.117]
+2026-03-06 18:11:10,799 - INFO - Driver has been saved in cache [/Users/arunkumartepan/.wdm/gw0/drivers/chromedriver/mac64/145.0.7632.117]
+2026-03-06 18:11:10,799 - INFO - Driver has been saved in cache [/Users/arunkumartepan/.wdm/gw0/drivers/chromedriver/mac64/145.0.7632.117]
+2026-03-06 18:11:10,799 - INFO - Driver has been saved in cache [/Users/arunkumartepan/.wdm/gw0/drivers/chromedriver/mac64/145.0.7632.117]
+2026-03-06 18:11:10,886 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:10,886 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:10,886 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:10,886 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:10,886 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:11,232 - INFO - WebDriver version 145.0.7632.117 selected
+2026-03-06 18:11:11,232 - INFO - WebDriver version 145.0.7632.117 selected
+2026-03-06 18:11:11,232 - INFO - WebDriver version 145.0.7632.117 selected
+2026-03-06 18:11:11,232 - INFO - WebDriver version 145.0.7632.117 selected
+2026-03-06 18:11:11,232 - INFO - WebDriver version 145.0.7632.117 selected
+2026-03-06 18:11:11,235 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-06 18:11:11,235 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-06 18:11:11,235 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-06 18:11:11,235 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-06 18:11:11,235 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-06 18:11:11,236 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-06 18:11:11,236 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-06 18:11:11,236 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-06 18:11:11,236 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-06 18:11:11,236 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-06 18:11:11,297 - INFO - Driver downloading response is 200
+2026-03-06 18:11:11,297 - INFO - Driver downloading response is 200
+2026-03-06 18:11:11,297 - INFO - Driver downloading response is 200
+2026-03-06 18:11:11,297 - INFO - Driver downloading response is 200
+2026-03-06 18:11:11,297 - INFO - Driver downloading response is 200
+2026-03-06 18:11:11,510 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:11,510 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:11,510 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:11,510 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:11,510 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:11,719 - INFO - Driver has been saved in cache [/Users/arunkumartepan/.wdm/gw1/drivers/chromedriver/mac64/145.0.7632.117]
+2026-03-06 18:11:11,719 - INFO - Driver has been saved in cache [/Users/arunkumartepan/.wdm/gw1/drivers/chromedriver/mac64/145.0.7632.117]
+2026-03-06 18:11:11,719 - INFO - Driver has been saved in cache [/Users/arunkumartepan/.wdm/gw1/drivers/chromedriver/mac64/145.0.7632.117]
+2026-03-06 18:11:11,719 - INFO - Driver has been saved in cache [/Users/arunkumartepan/.wdm/gw1/drivers/chromedriver/mac64/145.0.7632.117]
+2026-03-06 18:11:11,719 - INFO - Driver has been saved in cache [/Users/arunkumartepan/.wdm/gw1/drivers/chromedriver/mac64/145.0.7632.117]
+2026-03-06 18:11:16,345 - INFO - ===== Starting Add-To-Cart Validation Test =====
+2026-03-06 18:11:16,345 - INFO - ===== Starting Add-To-Cart Validation Test =====
+2026-03-06 18:11:16,345 - INFO - ===== Starting Add-To-Cart Validation Test =====
+2026-03-06 18:11:16,345 - INFO - ===== Starting Add-To-Cart Validation Test =====
+2026-03-06 18:11:16,345 - INFO - ===== Starting Add-To-Cart Validation Test =====
+2026-03-06 18:11:16,348 - INFO - Logging in with demo user
+2026-03-06 18:11:16,348 - INFO - Logging in with demo user
+2026-03-06 18:11:16,348 - INFO - Logging in with demo user
+2026-03-06 18:11:16,348 - INFO - Logging in with demo user
+2026-03-06 18:11:16,348 - INFO - Logging in with demo user
+2026-03-06 18:11:16,526 - INFO - Starting test: Valid login with demouser
+2026-03-06 18:11:16,526 - INFO - Starting test: Valid login with demouser
+2026-03-06 18:11:16,526 - INFO - Starting test: Valid login with demouser
+2026-03-06 18:11:16,526 - INFO - Starting test: Valid login with demouser
+2026-03-06 18:11:16,526 - INFO - Starting test: Valid login with demouser
+2026-03-06 18:11:18,898 - INFO - Searching product: iPhone 12
+2026-03-06 18:11:18,898 - INFO - Searching product: iPhone 12
+2026-03-06 18:11:18,898 - INFO - Searching product: iPhone 12
+2026-03-06 18:11:18,898 - INFO - Searching product: iPhone 12
+2026-03-06 18:11:18,898 - INFO - Searching product: iPhone 12
+2026-03-06 18:11:20,126 - INFO - Valid login test passed successfully
+2026-03-06 18:11:20,126 - INFO - Valid login test passed successfully
+2026-03-06 18:11:20,126 - INFO - Valid login test passed successfully
+2026-03-06 18:11:20,126 - INFO - Valid login test passed successfully
+2026-03-06 18:11:20,126 - INFO - Valid login test passed successfully
+2026-03-06 18:11:21,482 - INFO - Adding iPhone 12 to cart
+2026-03-06 18:11:21,482 - INFO - Adding iPhone 12 to cart
+2026-03-06 18:11:21,482 - INFO - Adding iPhone 12 to cart
+2026-03-06 18:11:21,482 - INFO - Adding iPhone 12 to cart
+2026-03-06 18:11:21,482 - INFO - Adding iPhone 12 to cart
+2026-03-06 18:11:23,251 - INFO - xdist worker is: gw1
+2026-03-06 18:11:23,251 - INFO - xdist worker is: gw1
+2026-03-06 18:11:23,251 - INFO - xdist worker is: gw1
+2026-03-06 18:11:23,251 - INFO - xdist worker is: gw1
+2026-03-06 18:11:23,251 - INFO - xdist worker is: gw1
+2026-03-06 18:11:23,252 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:23,252 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:23,252 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:23,252 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:23,252 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:23,426 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:23,426 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:23,426 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:23,426 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:23,426 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:23,547 - INFO - Searching product: One Plus 6T
+2026-03-06 18:11:23,547 - INFO - Searching product: One Plus 6T
+2026-03-06 18:11:23,547 - INFO - Searching product: One Plus 6T
+2026-03-06 18:11:23,547 - INFO - Searching product: One Plus 6T
+2026-03-06 18:11:23,547 - INFO - Searching product: One Plus 6T
+2026-03-06 18:11:23,586 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:23,586 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:23,586 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:23,586 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:23,586 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:23,723 - INFO - Driver [/Users/arunkumartepan/.wdm/gw1/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-06 18:11:23,723 - INFO - Driver [/Users/arunkumartepan/.wdm/gw1/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-06 18:11:23,723 - INFO - Driver [/Users/arunkumartepan/.wdm/gw1/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-06 18:11:23,723 - INFO - Driver [/Users/arunkumartepan/.wdm/gw1/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-06 18:11:23,723 - INFO - Driver [/Users/arunkumartepan/.wdm/gw1/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-06 18:11:25,993 - INFO - Adding One Plus 6T to cart
+2026-03-06 18:11:25,993 - INFO - Adding One Plus 6T to cart
+2026-03-06 18:11:25,993 - INFO - Adding One Plus 6T to cart
+2026-03-06 18:11:25,993 - INFO - Adding One Plus 6T to cart
+2026-03-06 18:11:25,993 - INFO - Adding One Plus 6T to cart
+2026-03-06 18:11:28,060 - INFO - Opening cart to validate added products
+2026-03-06 18:11:28,060 - INFO - Opening cart to validate added products
+2026-03-06 18:11:28,060 - INFO - Opening cart to validate added products
+2026-03-06 18:11:28,060 - INFO - Opening cart to validate added products
+2026-03-06 18:11:28,060 - INFO - Opening cart to validate added products
+2026-03-06 18:11:28,260 - INFO - Starting test: image_not_loading_user login
+2026-03-06 18:11:28,260 - INFO - Starting test: image_not_loading_user login
+2026-03-06 18:11:28,260 - INFO - Starting test: image_not_loading_user login
+2026-03-06 18:11:28,260 - INFO - Starting test: image_not_loading_user login
+2026-03-06 18:11:28,260 - INFO - Starting test: image_not_loading_user login
+2026-03-06 18:11:28,780 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:28,780 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:28,780 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:28,780 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:28,780 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:28,922 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:28,922 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:28,922 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:28,922 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:28,922 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:29,290 - INFO - WebDriver version 145.0.7632.117 selected
+2026-03-06 18:11:29,290 - INFO - WebDriver version 145.0.7632.117 selected
+2026-03-06 18:11:29,290 - INFO - WebDriver version 145.0.7632.117 selected
+2026-03-06 18:11:29,290 - INFO - WebDriver version 145.0.7632.117 selected
+2026-03-06 18:11:29,290 - INFO - WebDriver version 145.0.7632.117 selected
+2026-03-06 18:11:29,294 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-06 18:11:29,294 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-06 18:11:29,294 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-06 18:11:29,294 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-06 18:11:29,294 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-06 18:11:29,294 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-06 18:11:29,294 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-06 18:11:29,294 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-06 18:11:29,294 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-06 18:11:29,294 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-06 18:11:29,354 - INFO - Driver downloading response is 200
+2026-03-06 18:11:29,354 - INFO - Driver downloading response is 200
+2026-03-06 18:11:29,354 - INFO - Driver downloading response is 200
+2026-03-06 18:11:29,354 - INFO - Driver downloading response is 200
+2026-03-06 18:11:29,354 - INFO - Driver downloading response is 200
+2026-03-06 18:11:29,566 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:29,566 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:29,566 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:29,566 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:29,566 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:29,786 - INFO - Driver has been saved in cache [/Users/arunkumartepan/.wdm/gw2/drivers/chromedriver/mac64/145.0.7632.117]
+2026-03-06 18:11:29,786 - INFO - Driver has been saved in cache [/Users/arunkumartepan/.wdm/gw2/drivers/chromedriver/mac64/145.0.7632.117]
+2026-03-06 18:11:29,786 - INFO - Driver has been saved in cache [/Users/arunkumartepan/.wdm/gw2/drivers/chromedriver/mac64/145.0.7632.117]
+2026-03-06 18:11:29,786 - INFO - Driver has been saved in cache [/Users/arunkumartepan/.wdm/gw2/drivers/chromedriver/mac64/145.0.7632.117]
+2026-03-06 18:11:29,786 - INFO - Driver has been saved in cache [/Users/arunkumartepan/.wdm/gw2/drivers/chromedriver/mac64/145.0.7632.117]
+2026-03-06 18:11:30,142 - INFO - Products present in cart: ['iPhone 12', 'One Plus 6T']
+2026-03-06 18:11:30,142 - INFO - Products present in cart: ['iPhone 12', 'One Plus 6T']
+2026-03-06 18:11:30,142 - INFO - Products present in cart: ['iPhone 12', 'One Plus 6T']
+2026-03-06 18:11:30,142 - INFO - Products present in cart: ['iPhone 12', 'One Plus 6T']
+2026-03-06 18:11:30,142 - INFO - Products present in cart: ['iPhone 12', 'One Plus 6T']
+2026-03-06 18:11:30,385 - INFO - Product prices displayed in cart: ['$799.00\nor 9 x $ 88.78', '$699.00\nor 9 x $ 77.67', '$1099.00\nor 9 x $ 122.11', '$999.00\nor 5 x $ 199.80', '$599.00\nor 8 x $ 74.88', '$699.00\nor 3 x $ 233.00', '$549.00\nor 4 x $ 137.25', '$499.00\nor 5 x $ 99.80', '$649.00\nor 7 x $ 92.71', '$999.00\nor 9 x $ 111.00', '$1199.00\nor 9 x $ 133.22', '$1399.00\nor 12 x $ 116.58', '$899.00\nor 5 x $ 179.80', '$699.00\nor 5 x $ 139.80', '$999.00\nor 7 x $ 142.71', '$1299.00\nor 7 x $ 185.57', '$899.00\nor 5 x $ 179.80', '$599.00\nor 5 x $ 119.80', '$399.00\nor 3 x $ 133.00', '$799.00\nor 6 x $ 133.17', '$899.00\nor 6 x $ 149.83', '$899.00\nor 6 x $ 149.83', '$599.00\nor 6 x $ 99.83', '$499.00\nor 3 x $ 166.33', '$429.00\nor 3 x $ 143.00', '$ 799.00\n-+', '$ 429.00\n-+']
+2026-03-06 18:11:30,385 - INFO - Product prices displayed in cart: ['$799.00\nor 9 x $ 88.78', '$699.00\nor 9 x $ 77.67', '$1099.00\nor 9 x $ 122.11', '$999.00\nor 5 x $ 199.80', '$599.00\nor 8 x $ 74.88', '$699.00\nor 3 x $ 233.00', '$549.00\nor 4 x $ 137.25', '$499.00\nor 5 x $ 99.80', '$649.00\nor 7 x $ 92.71', '$999.00\nor 9 x $ 111.00', '$1199.00\nor 9 x $ 133.22', '$1399.00\nor 12 x $ 116.58', '$899.00\nor 5 x $ 179.80', '$699.00\nor 5 x $ 139.80', '$999.00\nor 7 x $ 142.71', '$1299.00\nor 7 x $ 185.57', '$899.00\nor 5 x $ 179.80', '$599.00\nor 5 x $ 119.80', '$399.00\nor 3 x $ 133.00', '$799.00\nor 6 x $ 133.17', '$899.00\nor 6 x $ 149.83', '$899.00\nor 6 x $ 149.83', '$599.00\nor 6 x $ 99.83', '$499.00\nor 3 x $ 166.33', '$429.00\nor 3 x $ 143.00', '$ 799.00\n-+', '$ 429.00\n-+']
+2026-03-06 18:11:30,385 - INFO - Product prices displayed in cart: ['$799.00\nor 9 x $ 88.78', '$699.00\nor 9 x $ 77.67', '$1099.00\nor 9 x $ 122.11', '$999.00\nor 5 x $ 199.80', '$599.00\nor 8 x $ 74.88', '$699.00\nor 3 x $ 233.00', '$549.00\nor 4 x $ 137.25', '$499.00\nor 5 x $ 99.80', '$649.00\nor 7 x $ 92.71', '$999.00\nor 9 x $ 111.00', '$1199.00\nor 9 x $ 133.22', '$1399.00\nor 12 x $ 116.58', '$899.00\nor 5 x $ 179.80', '$699.00\nor 5 x $ 139.80', '$999.00\nor 7 x $ 142.71', '$1299.00\nor 7 x $ 185.57', '$899.00\nor 5 x $ 179.80', '$599.00\nor 5 x $ 119.80', '$399.00\nor 3 x $ 133.00', '$799.00\nor 6 x $ 133.17', '$899.00\nor 6 x $ 149.83', '$899.00\nor 6 x $ 149.83', '$599.00\nor 6 x $ 99.83', '$499.00\nor 3 x $ 166.33', '$429.00\nor 3 x $ 143.00', '$ 799.00\n-+', '$ 429.00\n-+']
+2026-03-06 18:11:30,385 - INFO - Product prices displayed in cart: ['$799.00\nor 9 x $ 88.78', '$699.00\nor 9 x $ 77.67', '$1099.00\nor 9 x $ 122.11', '$999.00\nor 5 x $ 199.80', '$599.00\nor 8 x $ 74.88', '$699.00\nor 3 x $ 233.00', '$549.00\nor 4 x $ 137.25', '$499.00\nor 5 x $ 99.80', '$649.00\nor 7 x $ 92.71', '$999.00\nor 9 x $ 111.00', '$1199.00\nor 9 x $ 133.22', '$1399.00\nor 12 x $ 116.58', '$899.00\nor 5 x $ 179.80', '$699.00\nor 5 x $ 139.80', '$999.00\nor 7 x $ 142.71', '$1299.00\nor 7 x $ 185.57', '$899.00\nor 5 x $ 179.80', '$599.00\nor 5 x $ 119.80', '$399.00\nor 3 x $ 133.00', '$799.00\nor 6 x $ 133.17', '$899.00\nor 6 x $ 149.83', '$899.00\nor 6 x $ 149.83', '$599.00\nor 6 x $ 99.83', '$499.00\nor 3 x $ 166.33', '$429.00\nor 3 x $ 143.00', '$ 799.00\n-+', '$ 429.00\n-+']
+2026-03-06 18:11:30,385 - INFO - Product prices displayed in cart: ['$799.00\nor 9 x $ 88.78', '$699.00\nor 9 x $ 77.67', '$1099.00\nor 9 x $ 122.11', '$999.00\nor 5 x $ 199.80', '$599.00\nor 8 x $ 74.88', '$699.00\nor 3 x $ 233.00', '$549.00\nor 4 x $ 137.25', '$499.00\nor 5 x $ 99.80', '$649.00\nor 7 x $ 92.71', '$999.00\nor 9 x $ 111.00', '$1199.00\nor 9 x $ 133.22', '$1399.00\nor 12 x $ 116.58', '$899.00\nor 5 x $ 179.80', '$699.00\nor 5 x $ 139.80', '$999.00\nor 7 x $ 142.71', '$1299.00\nor 7 x $ 185.57', '$899.00\nor 5 x $ 179.80', '$599.00\nor 5 x $ 119.80', '$399.00\nor 3 x $ 133.00', '$799.00\nor 6 x $ 133.17', '$899.00\nor 6 x $ 149.83', '$899.00\nor 6 x $ 149.83', '$599.00\nor 6 x $ 99.83', '$499.00\nor 3 x $ 166.33', '$429.00\nor 3 x $ 143.00', '$ 799.00\n-+', '$ 429.00\n-+']
+2026-03-06 18:11:30,414 - INFO - Subtotal displayed in cart: $ 1228.00
+OR UP TO 9 x $ 136.44
+2026-03-06 18:11:30,414 - INFO - Subtotal displayed in cart: $ 1228.00
+OR UP TO 9 x $ 136.44
+2026-03-06 18:11:30,414 - INFO - Subtotal displayed in cart: $ 1228.00
+OR UP TO 9 x $ 136.44
+2026-03-06 18:11:30,414 - INFO - Subtotal displayed in cart: $ 1228.00
+OR UP TO 9 x $ 136.44
+2026-03-06 18:11:30,414 - INFO - Subtotal displayed in cart: $ 1228.00
+OR UP TO 9 x $ 136.44
+2026-03-06 18:11:30,415 - INFO - Cart subtotal validation successful
+2026-03-06 18:11:30,415 - INFO - Cart subtotal validation successful
+2026-03-06 18:11:30,415 - INFO - Cart subtotal validation successful
+2026-03-06 18:11:30,415 - INFO - Cart subtotal validation successful
+2026-03-06 18:11:30,415 - INFO - Cart subtotal validation successful
+2026-03-06 18:11:30,415 - INFO - Clicking checkout button
+2026-03-06 18:11:30,415 - INFO - Clicking checkout button
+2026-03-06 18:11:30,415 - INFO - Clicking checkout button
+2026-03-06 18:11:30,415 - INFO - Clicking checkout button
+2026-03-06 18:11:30,415 - INFO - Clicking checkout button
+2026-03-06 18:11:31,789 - INFO - image_not_loading_user login successful
+2026-03-06 18:11:31,789 - INFO - image_not_loading_user login successful
+2026-03-06 18:11:31,789 - INFO - image_not_loading_user login successful
+2026-03-06 18:11:31,789 - INFO - image_not_loading_user login successful
+2026-03-06 18:11:31,789 - INFO - image_not_loading_user login successful
+2026-03-06 18:11:33,509 - INFO - Checkout page opened successfully
+2026-03-06 18:11:33,509 - INFO - Checkout page opened successfully
+2026-03-06 18:11:33,509 - INFO - Checkout page opened successfully
+2026-03-06 18:11:33,509 - INFO - Checkout page opened successfully
+2026-03-06 18:11:33,509 - INFO - Checkout page opened successfully
+2026-03-06 18:11:33,509 - INFO - ===== Add-To-Cart Validation Test Completed Successfully =====
+2026-03-06 18:11:33,509 - INFO - ===== Add-To-Cart Validation Test Completed Successfully =====
+2026-03-06 18:11:33,509 - INFO - ===== Add-To-Cart Validation Test Completed Successfully =====
+2026-03-06 18:11:33,509 - INFO - ===== Add-To-Cart Validation Test Completed Successfully =====
+2026-03-06 18:11:33,509 - INFO - ===== Add-To-Cart Validation Test Completed Successfully =====
+2026-03-06 18:11:34,975 - INFO - xdist worker is: gw1
+2026-03-06 18:11:34,975 - INFO - xdist worker is: gw1
+2026-03-06 18:11:34,975 - INFO - xdist worker is: gw1
+2026-03-06 18:11:34,975 - INFO - xdist worker is: gw1
+2026-03-06 18:11:34,975 - INFO - xdist worker is: gw1
+2026-03-06 18:11:34,975 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:34,975 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:34,975 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:34,975 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:34,975 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:35,121 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:35,121 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:35,121 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:35,121 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:35,121 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:35,259 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:35,259 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:35,259 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:35,259 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:35,259 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:35,394 - INFO - Driver [/Users/arunkumartepan/.wdm/gw1/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-06 18:11:35,394 - INFO - Driver [/Users/arunkumartepan/.wdm/gw1/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-06 18:11:35,394 - INFO - Driver [/Users/arunkumartepan/.wdm/gw1/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-06 18:11:35,394 - INFO - Driver [/Users/arunkumartepan/.wdm/gw1/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-06 18:11:35,394 - INFO - Driver [/Users/arunkumartepan/.wdm/gw1/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-06 18:11:35,584 - INFO - Starting test: existing_orders_user login
+2026-03-06 18:11:35,584 - INFO - Starting test: existing_orders_user login
+2026-03-06 18:11:35,584 - INFO - Starting test: existing_orders_user login
+2026-03-06 18:11:35,584 - INFO - Starting test: existing_orders_user login
+2026-03-06 18:11:35,584 - INFO - Starting test: existing_orders_user login
+2026-03-06 18:11:36,641 - INFO - xdist worker is: gw0
+2026-03-06 18:11:36,641 - INFO - xdist worker is: gw0
+2026-03-06 18:11:36,641 - INFO - xdist worker is: gw0
+2026-03-06 18:11:36,641 - INFO - xdist worker is: gw0
+2026-03-06 18:11:36,641 - INFO - xdist worker is: gw0
+2026-03-06 18:11:36,641 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:36,641 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:36,641 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:36,641 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:36,641 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:37,031 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:37,031 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:37,031 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:37,031 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:37,031 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:37,207 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:37,207 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:37,207 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:37,207 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:37,207 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:37,346 - INFO - Driver [/Users/arunkumartepan/.wdm/gw0/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-06 18:11:37,346 - INFO - Driver [/Users/arunkumartepan/.wdm/gw0/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-06 18:11:37,346 - INFO - Driver [/Users/arunkumartepan/.wdm/gw0/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-06 18:11:37,346 - INFO - Driver [/Users/arunkumartepan/.wdm/gw0/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-06 18:11:37,346 - INFO - Driver [/Users/arunkumartepan/.wdm/gw0/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-06 18:11:39,803 - INFO - existing_orders_user login successful
+2026-03-06 18:11:39,803 - INFO - existing_orders_user login successful
+2026-03-06 18:11:39,803 - INFO - existing_orders_user login successful
+2026-03-06 18:11:39,803 - INFO - existing_orders_user login successful
+2026-03-06 18:11:39,803 - INFO - existing_orders_user login successful
+2026-03-06 18:11:39,845 - INFO - Starting test: locked_user login scenario
+2026-03-06 18:11:39,845 - INFO - Starting test: locked_user login scenario
+2026-03-06 18:11:39,845 - INFO - Starting test: locked_user login scenario
+2026-03-06 18:11:39,845 - INFO - Starting test: locked_user login scenario
+2026-03-06 18:11:39,845 - INFO - Starting test: locked_user login scenario
+2026-03-06 18:11:41,753 - INFO - ===== Starting Checkout Flow Test =====
+2026-03-06 18:11:41,753 - INFO - ===== Starting Checkout Flow Test =====
+2026-03-06 18:11:41,753 - INFO - ===== Starting Checkout Flow Test =====
+2026-03-06 18:11:41,753 - INFO - ===== Starting Checkout Flow Test =====
+2026-03-06 18:11:41,753 - INFO - ===== Starting Checkout Flow Test =====
+2026-03-06 18:11:41,755 - INFO - Logging in with demo user
+2026-03-06 18:11:41,755 - INFO - Logging in with demo user
+2026-03-06 18:11:41,755 - INFO - Logging in with demo user
+2026-03-06 18:11:41,755 - INFO - Logging in with demo user
+2026-03-06 18:11:41,755 - INFO - Logging in with demo user
+2026-03-06 18:11:42,993 - INFO - xdist worker is: gw2
+2026-03-06 18:11:42,993 - INFO - xdist worker is: gw2
+2026-03-06 18:11:42,993 - INFO - xdist worker is: gw2
+2026-03-06 18:11:42,993 - INFO - xdist worker is: gw2
+2026-03-06 18:11:42,993 - INFO - xdist worker is: gw2
+2026-03-06 18:11:42,994 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:42,994 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:42,994 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:42,994 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:42,994 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:43,158 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:43,158 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:43,158 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:43,158 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:43,158 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:43,304 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:43,304 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:43,304 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:43,304 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:43,304 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:43,442 - INFO - Driver [/Users/arunkumartepan/.wdm/gw2/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-06 18:11:43,442 - INFO - Driver [/Users/arunkumartepan/.wdm/gw2/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-06 18:11:43,442 - INFO - Driver [/Users/arunkumartepan/.wdm/gw2/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-06 18:11:43,442 - INFO - Driver [/Users/arunkumartepan/.wdm/gw2/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-06 18:11:43,442 - INFO - Driver [/Users/arunkumartepan/.wdm/gw2/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-06 18:11:43,505 - INFO - Locked user validation completed
+2026-03-06 18:11:43,505 - INFO - Locked user validation completed
+2026-03-06 18:11:43,505 - INFO - Locked user validation completed
+2026-03-06 18:11:43,505 - INFO - Locked user validation completed
+2026-03-06 18:11:43,505 - INFO - Locked user validation completed
+2026-03-06 18:11:44,345 - INFO - Searching and adding product: iPhone 12
+2026-03-06 18:11:44,345 - INFO - Searching and adding product: iPhone 12
+2026-03-06 18:11:44,345 - INFO - Searching and adding product: iPhone 12
+2026-03-06 18:11:44,345 - INFO - Searching and adding product: iPhone 12
+2026-03-06 18:11:44,345 - INFO - Searching and adding product: iPhone 12
+2026-03-06 18:11:46,638 - INFO - xdist worker is: gw1
+2026-03-06 18:11:46,638 - INFO - xdist worker is: gw1
+2026-03-06 18:11:46,638 - INFO - xdist worker is: gw1
+2026-03-06 18:11:46,638 - INFO - xdist worker is: gw1
+2026-03-06 18:11:46,638 - INFO - xdist worker is: gw1
+2026-03-06 18:11:46,639 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:46,639 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:46,639 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:46,639 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:46,639 - INFO - ====== WebDriver manager ======
+2026-03-06 18:11:46,835 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:46,835 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:46,835 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:46,835 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:46,835 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:47,007 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:47,007 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:47,007 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:47,007 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:47,007 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:11:47,155 - INFO - Driver [/Users/arunkumartepan/.wdm/gw1/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-06 18:11:47,155 - INFO - Driver [/Users/arunkumartepan/.wdm/gw1/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-06 18:11:47,155 - INFO - Driver [/Users/arunkumartepan/.wdm/gw1/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-06 18:11:47,155 - INFO - Driver [/Users/arunkumartepan/.wdm/gw1/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-06 18:11:47,155 - INFO - Driver [/Users/arunkumartepan/.wdm/gw1/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-06 18:11:47,379 - INFO - Searching and adding product: One Plus 6T
+2026-03-06 18:11:47,379 - INFO - Searching and adding product: One Plus 6T
+2026-03-06 18:11:47,379 - INFO - Searching and adding product: One Plus 6T
+2026-03-06 18:11:47,379 - INFO - Searching and adding product: One Plus 6T
+2026-03-06 18:11:47,379 - INFO - Searching and adding product: One Plus 6T
+2026-03-06 18:11:47,866 - INFO - Starting test: fav_user login
+2026-03-06 18:11:47,866 - INFO - Starting test: fav_user login
+2026-03-06 18:11:47,866 - INFO - Starting test: fav_user login
+2026-03-06 18:11:47,866 - INFO - Starting test: fav_user login
+2026-03-06 18:11:47,866 - INFO - Starting test: fav_user login
+2026-03-06 18:11:50,842 - INFO - Opening cart
+2026-03-06 18:11:50,842 - INFO - Opening cart
+2026-03-06 18:11:50,842 - INFO - Opening cart
+2026-03-06 18:11:50,842 - INFO - Opening cart
+2026-03-06 18:11:50,842 - INFO - Opening cart
+2026-03-06 18:11:52,304 - INFO - fav_user login successful
+2026-03-06 18:11:52,304 - INFO - fav_user login successful
+2026-03-06 18:11:52,304 - INFO - fav_user login successful
+2026-03-06 18:11:52,304 - INFO - fav_user login successful
+2026-03-06 18:11:52,304 - INFO - fav_user login successful
+2026-03-06 18:11:52,530 - INFO - ===== Starting End-to-End Checkout Flow Test =====
+2026-03-06 18:11:52,530 - INFO - ===== Starting End-to-End Checkout Flow Test =====
+2026-03-06 18:11:52,530 - INFO - ===== Starting End-to-End Checkout Flow Test =====
+2026-03-06 18:11:52,530 - INFO - ===== Starting End-to-End Checkout Flow Test =====
+2026-03-06 18:11:52,530 - INFO - ===== Starting End-to-End Checkout Flow Test =====
+2026-03-06 18:11:52,531 - INFO - Logging in using Demo User
+2026-03-06 18:11:52,531 - INFO - Logging in using Demo User
+2026-03-06 18:11:52,531 - INFO - Logging in using Demo User
+2026-03-06 18:11:52,531 - INFO - Logging in using Demo User
+2026-03-06 18:11:52,531 - INFO - Logging in using Demo User
+2026-03-06 18:11:52,981 - INFO - Products present in cart: ['iPhone 12', 'One Plus 6T']
+2026-03-06 18:11:52,981 - INFO - Products present in cart: ['iPhone 12', 'One Plus 6T']
+2026-03-06 18:11:52,981 - INFO - Products present in cart: ['iPhone 12', 'One Plus 6T']
+2026-03-06 18:11:52,981 - INFO - Products present in cart: ['iPhone 12', 'One Plus 6T']
+2026-03-06 18:11:52,981 - INFO - Products present in cart: ['iPhone 12', 'One Plus 6T']
+2026-03-06 18:11:53,022 - INFO - Cart subtotal displayed: $ 1228.00
+OR UP TO 9 x $ 136.44
+2026-03-06 18:11:53,022 - INFO - Cart subtotal displayed: $ 1228.00
+OR UP TO 9 x $ 136.44
+2026-03-06 18:11:53,022 - INFO - Cart subtotal displayed: $ 1228.00
+OR UP TO 9 x $ 136.44
+2026-03-06 18:11:53,022 - INFO - Cart subtotal displayed: $ 1228.00
+OR UP TO 9 x $ 136.44
+2026-03-06 18:11:53,022 - INFO - Cart subtotal displayed: $ 1228.00
+OR UP TO 9 x $ 136.44
+2026-03-06 18:11:53,023 - INFO - Cart validation successful
+2026-03-06 18:11:53,023 - INFO - Cart validation successful
+2026-03-06 18:11:53,023 - INFO - Cart validation successful
+2026-03-06 18:11:53,023 - INFO - Cart validation successful
+2026-03-06 18:11:53,023 - INFO - Cart validation successful
+2026-03-06 18:11:53,023 - INFO - Proceeding to checkout page
+2026-03-06 18:11:53,023 - INFO - Proceeding to checkout page
+2026-03-06 18:11:53,023 - INFO - Proceeding to checkout page
+2026-03-06 18:11:53,023 - INFO - Proceeding to checkout page
+2026-03-06 18:11:53,023 - INFO - Proceeding to checkout page
+2026-03-06 18:11:55,152 - INFO - Filling shipping address using Excel data
+2026-03-06 18:11:55,152 - INFO - Filling shipping address using Excel data
+2026-03-06 18:11:55,152 - INFO - Filling shipping address using Excel data
+2026-03-06 18:11:55,152 - INFO - Filling shipping address using Excel data
+2026-03-06 18:11:55,152 - INFO - Filling shipping address using Excel data
+2026-03-06 18:11:55,501 - INFO - Searching and adding iPhone 12 to cart
+2026-03-06 18:11:55,501 - INFO - Searching and adding iPhone 12 to cart
+2026-03-06 18:11:55,501 - INFO - Searching and adding iPhone 12 to cart
+2026-03-06 18:11:55,501 - INFO - Searching and adding iPhone 12 to cart
+2026-03-06 18:11:55,501 - INFO - Searching and adding iPhone 12 to cart
+2026-03-06 18:11:57,357 - INFO - Submitting order
+2026-03-06 18:11:57,357 - INFO - Submitting order
+2026-03-06 18:11:57,357 - INFO - Submitting order
+2026-03-06 18:11:57,357 - INFO - Submitting order
+2026-03-06 18:11:57,357 - INFO - Submitting order
+2026-03-06 18:11:57,425 - INFO - Order submitted successfully
+2026-03-06 18:11:57,425 - INFO - Order submitted successfully
+2026-03-06 18:11:57,425 - INFO - Order submitted successfully
+2026-03-06 18:11:57,425 - INFO - Order submitted successfully
+2026-03-06 18:11:57,425 - INFO - Order submitted successfully
+2026-03-06 18:11:57,425 - INFO - ===== Checkout Flow Test Completed Successfully =====
+2026-03-06 18:11:57,425 - INFO - ===== Checkout Flow Test Completed Successfully =====
+2026-03-06 18:11:57,425 - INFO - ===== Checkout Flow Test Completed Successfully =====
+2026-03-06 18:11:57,425 - INFO - ===== Checkout Flow Test Completed Successfully =====
+2026-03-06 18:11:57,425 - INFO - ===== Checkout Flow Test Completed Successfully =====
+2026-03-06 18:11:58,248 - INFO - Searching and adding One Plus 6T to cart
+2026-03-06 18:11:58,248 - INFO - Searching and adding One Plus 6T to cart
+2026-03-06 18:11:58,248 - INFO - Searching and adding One Plus 6T to cart
+2026-03-06 18:11:58,248 - INFO - Searching and adding One Plus 6T to cart
+2026-03-06 18:11:58,248 - INFO - Searching and adding One Plus 6T to cart
+2026-03-06 18:12:00,572 - INFO - xdist worker is: gw0
+2026-03-06 18:12:00,572 - INFO - xdist worker is: gw0
+2026-03-06 18:12:00,572 - INFO - xdist worker is: gw0
+2026-03-06 18:12:00,572 - INFO - xdist worker is: gw0
+2026-03-06 18:12:00,572 - INFO - xdist worker is: gw0
+2026-03-06 18:12:00,572 - INFO - ====== WebDriver manager ======
+2026-03-06 18:12:00,572 - INFO - ====== WebDriver manager ======
+2026-03-06 18:12:00,572 - INFO - ====== WebDriver manager ======
+2026-03-06 18:12:00,572 - INFO - ====== WebDriver manager ======
+2026-03-06 18:12:00,572 - INFO - ====== WebDriver manager ======
+2026-03-06 18:12:00,720 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:12:00,720 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:12:00,720 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:12:00,720 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:12:00,720 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:12:00,760 - INFO - Opening cart to validate added products
+2026-03-06 18:12:00,760 - INFO - Opening cart to validate added products
+2026-03-06 18:12:00,760 - INFO - Opening cart to validate added products
+2026-03-06 18:12:00,760 - INFO - Opening cart to validate added products
+2026-03-06 18:12:00,760 - INFO - Opening cart to validate added products
+2026-03-06 18:12:00,872 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:12:00,872 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:12:00,872 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:12:00,872 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:12:00,872 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-06 18:12:01,010 - INFO - Driver [/Users/arunkumartepan/.wdm/gw0/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-06 18:12:01,010 - INFO - Driver [/Users/arunkumartepan/.wdm/gw0/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-06 18:12:01,010 - INFO - Driver [/Users/arunkumartepan/.wdm/gw0/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-06 18:12:01,010 - INFO - Driver [/Users/arunkumartepan/.wdm/gw0/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-06 18:12:01,010 - INFO - Driver [/Users/arunkumartepan/.wdm/gw0/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-06 18:12:02,825 - INFO - Products present in cart: ['iPhone 12', 'One Plus 6T']
+2026-03-06 18:12:02,825 - INFO - Products present in cart: ['iPhone 12', 'One Plus 6T']
+2026-03-06 18:12:02,825 - INFO - Products present in cart: ['iPhone 12', 'One Plus 6T']
+2026-03-06 18:12:02,825 - INFO - Products present in cart: ['iPhone 12', 'One Plus 6T']
+2026-03-06 18:12:02,825 - INFO - Products present in cart: ['iPhone 12', 'One Plus 6T']
+2026-03-06 18:12:02,840 - INFO - Cart subtotal displayed: $ 1228.00
+OR UP TO 9 x $ 136.44
+2026-03-06 18:12:02,840 - INFO - Cart subtotal displayed: $ 1228.00
+OR UP TO 9 x $ 136.44
+2026-03-06 18:12:02,840 - INFO - Cart subtotal displayed: $ 1228.00
+OR UP TO 9 x $ 136.44
+2026-03-06 18:12:02,840 - INFO - Cart subtotal displayed: $ 1228.00
+OR UP TO 9 x $ 136.44
+2026-03-06 18:12:02,840 - INFO - Cart subtotal displayed: $ 1228.00
+OR UP TO 9 x $ 136.44
+2026-03-06 18:12:02,840 - INFO - Cart validation successful
+2026-03-06 18:12:02,840 - INFO - Cart validation successful
+2026-03-06 18:12:02,840 - INFO - Cart validation successful
+2026-03-06 18:12:02,840 - INFO - Cart validation successful
+2026-03-06 18:12:02,840 - INFO - Cart validation successful
+2026-03-06 18:12:02,840 - INFO - Proceeding to checkout page
+2026-03-06 18:12:02,840 - INFO - Proceeding to checkout page
+2026-03-06 18:12:02,840 - INFO - Proceeding to checkout page
+2026-03-06 18:12:02,840 - INFO - Proceeding to checkout page
+2026-03-06 18:12:02,840 - INFO - Proceeding to checkout page
+2026-03-06 18:12:04,948 - INFO - Filling shipping address using Excel data
+2026-03-06 18:12:04,948 - INFO - Filling shipping address using Excel data
+2026-03-06 18:12:04,948 - INFO - Filling shipping address using Excel data
+2026-03-06 18:12:04,948 - INFO - Filling shipping address using Excel data
+2026-03-06 18:12:04,948 - INFO - Filling shipping address using Excel data
+2026-03-06 18:12:05,191 - INFO - ===== Starting Product Search and Add-To-Cart Test =====
+2026-03-06 18:12:05,191 - INFO - ===== Starting Product Search and Add-To-Cart Test =====
+2026-03-06 18:12:05,191 - INFO - ===== Starting Product Search and Add-To-Cart Test =====
+2026-03-06 18:12:05,191 - INFO - ===== Starting Product Search and Add-To-Cart Test =====
+2026-03-06 18:12:05,191 - INFO - ===== Starting Product Search and Add-To-Cart Test =====
+2026-03-06 18:12:05,205 - INFO - Logging in using demouser
+2026-03-06 18:12:05,205 - INFO - Logging in using demouser
+2026-03-06 18:12:05,205 - INFO - Logging in using demouser
+2026-03-06 18:12:05,205 - INFO - Logging in using demouser
+2026-03-06 18:12:05,205 - INFO - Logging in using demouser
+2026-03-06 18:12:07,228 - INFO - Submitting order
+2026-03-06 18:12:07,228 - INFO - Submitting order
+2026-03-06 18:12:07,228 - INFO - Submitting order
+2026-03-06 18:12:07,228 - INFO - Submitting order
+2026-03-06 18:12:07,228 - INFO - Submitting order
+2026-03-06 18:12:07,280 - INFO - Order submitted successfully
+2026-03-06 18:12:07,280 - INFO - Order submitted successfully
+2026-03-06 18:12:07,280 - INFO - Order submitted successfully
+2026-03-06 18:12:07,280 - INFO - Order submitted successfully
+2026-03-06 18:12:07,280 - INFO - Order submitted successfully
+2026-03-06 18:12:07,281 - INFO - Downloading order receipt
+2026-03-06 18:12:07,281 - INFO - Downloading order receipt
+2026-03-06 18:12:07,281 - INFO - Downloading order receipt
+2026-03-06 18:12:07,281 - INFO - Downloading order receipt
+2026-03-06 18:12:07,281 - INFO - Downloading order receipt
+2026-03-06 18:12:08,961 - INFO - Searching for product: iPhone 12
+2026-03-06 18:12:08,961 - INFO - Searching for product: iPhone 12
+2026-03-06 18:12:08,961 - INFO - Searching for product: iPhone 12
+2026-03-06 18:12:08,961 - INFO - Searching for product: iPhone 12
+2026-03-06 18:12:08,961 - INFO - Searching for product: iPhone 12
+2026-03-06 18:12:11,494 - INFO - Adding iPhone 12 to cart
+2026-03-06 18:12:11,494 - INFO - Adding iPhone 12 to cart
+2026-03-06 18:12:11,494 - INFO - Adding iPhone 12 to cart
+2026-03-06 18:12:11,494 - INFO - Adding iPhone 12 to cart
+2026-03-06 18:12:11,494 - INFO - Adding iPhone 12 to cart
+2026-03-06 18:12:12,744 - INFO - Validating if receipt file is downloaded
+2026-03-06 18:12:12,744 - INFO - Validating if receipt file is downloaded
+2026-03-06 18:12:12,744 - INFO - Validating if receipt file is downloaded
+2026-03-06 18:12:12,744 - INFO - Validating if receipt file is downloaded
+2026-03-06 18:12:12,744 - INFO - Validating if receipt file is downloaded
+2026-03-06 18:12:12,744 - INFO - Receipt downloaded successfully
+2026-03-06 18:12:12,744 - INFO - Receipt downloaded successfully
+2026-03-06 18:12:12,744 - INFO - Receipt downloaded successfully
+2026-03-06 18:12:12,744 - INFO - Receipt downloaded successfully
+2026-03-06 18:12:12,744 - INFO - Receipt downloaded successfully
+2026-03-06 18:12:12,744 - INFO - Clicking Continue Shopping button
+2026-03-06 18:12:12,744 - INFO - Clicking Continue Shopping button
+2026-03-06 18:12:12,744 - INFO - Clicking Continue Shopping button
+2026-03-06 18:12:12,744 - INFO - Clicking Continue Shopping button
+2026-03-06 18:12:12,744 - INFO - Clicking Continue Shopping button
+2026-03-06 18:12:13,560 - INFO - Searching for product: One Plus 6T
+2026-03-06 18:12:13,560 - INFO - Searching for product: One Plus 6T
+2026-03-06 18:12:13,560 - INFO - Searching for product: One Plus 6T
+2026-03-06 18:12:13,560 - INFO - Searching for product: One Plus 6T
+2026-03-06 18:12:13,560 - INFO - Searching for product: One Plus 6T
+2026-03-06 18:12:14,810 - INFO - Validating navigation back to products page
+2026-03-06 18:12:14,810 - INFO - Validating navigation back to products page
+2026-03-06 18:12:14,810 - INFO - Validating navigation back to products page
+2026-03-06 18:12:14,810 - INFO - Validating navigation back to products page
+2026-03-06 18:12:14,810 - INFO - Validating navigation back to products page
+2026-03-06 18:12:14,818 - INFO - Successfully returned to product page
+2026-03-06 18:12:14,818 - INFO - Successfully returned to product page
+2026-03-06 18:12:14,818 - INFO - Successfully returned to product page
+2026-03-06 18:12:14,818 - INFO - Successfully returned to product page
+2026-03-06 18:12:14,818 - INFO - Successfully returned to product page
+2026-03-06 18:12:14,818 - INFO - ===== Test Completed Successfully =====
+2026-03-06 18:12:14,818 - INFO - ===== Test Completed Successfully =====
+2026-03-06 18:12:14,818 - INFO - ===== Test Completed Successfully =====
+2026-03-06 18:12:14,818 - INFO - ===== Test Completed Successfully =====
+2026-03-06 18:12:14,818 - INFO - ===== Test Completed Successfully =====
+2026-03-06 18:12:16,019 - INFO - Scrolling and adding One Plus 6T to cart
+2026-03-06 18:12:16,019 - INFO - Scrolling and adding One Plus 6T to cart
+2026-03-06 18:12:16,019 - INFO - Scrolling and adding One Plus 6T to cart
+2026-03-06 18:12:16,019 - INFO - Scrolling and adding One Plus 6T to cart
+2026-03-06 18:12:16,019 - INFO - Scrolling and adding One Plus 6T to cart
+2026-03-06 18:12:19,084 - INFO - Validating products added to cart
+2026-03-06 18:12:19,084 - INFO - Validating products added to cart
+2026-03-06 18:12:19,084 - INFO - Validating products added to cart
+2026-03-06 18:12:19,084 - INFO - Validating products added to cart
+2026-03-06 18:12:19,084 - INFO - Validating products added to cart
+2026-03-06 18:12:19,093 - INFO - Product search and add-to-cart test passed successfully
+2026-03-06 18:12:19,093 - INFO - Product search and add-to-cart test passed successfully
+2026-03-06 18:12:19,093 - INFO - Product search and add-to-cart test passed successfully
+2026-03-06 18:12:19,093 - INFO - Product search and add-to-cart test passed successfully
+2026-03-06 18:12:19,093 - INFO - Product search and add-to-cart test passed successfully

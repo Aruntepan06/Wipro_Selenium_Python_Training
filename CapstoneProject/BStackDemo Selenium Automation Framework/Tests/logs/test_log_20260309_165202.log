@@ -1,0 +1,66 @@
+2026-03-09 16:52:05,749 - INFO - xdist worker is: gw2
+2026-03-09 16:52:05,750 - INFO - ====== WebDriver manager ======
+2026-03-09 16:52:05,753 - INFO - xdist worker is: gw1
+2026-03-09 16:52:05,753 - INFO - xdist worker is: gw0
+2026-03-09 16:52:05,753 - INFO - ====== WebDriver manager ======
+2026-03-09 16:52:05,754 - INFO - ====== WebDriver manager ======
+2026-03-09 16:52:06,285 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-09 16:52:06,285 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-09 16:52:06,285 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-09 16:52:06,420 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-09 16:52:06,547 - INFO - Driver [/Users/arunkumartepan/.wdm/gw1/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-09 16:52:07,419 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-09 16:52:07,549 - INFO - Driver [/Users/arunkumartepan/.wdm/gw0/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-09 16:52:20,162 - INFO - Logging in using Demo User
+2026-03-09 16:52:22,865 - INFO - Login successful
+2026-03-09 16:52:25,432 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-09 16:52:25,565 - INFO - Driver [/Users/arunkumartepan/.wdm/gw2/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-09 16:52:26,700 - INFO - Logging in using Demo User
+2026-03-09 16:52:29,922 - INFO - Login successful
+2026-03-09 16:52:33,187 - INFO - xdist worker is: gw0
+2026-03-09 16:52:33,189 - INFO - ====== WebDriver manager ======
+2026-03-09 16:52:33,553 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-09 16:52:33,744 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-09 16:52:33,899 - INFO - Driver [/Users/arunkumartepan/.wdm/gw0/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-09 16:52:34,869 - INFO - Opening cart
+2026-03-09 16:52:37,113 - INFO - Validating products inside cart
+2026-03-09 16:52:37,180 - INFO - Validating subtotal value
+2026-03-09 16:52:40,413 - INFO - xdist worker is: gw1
+2026-03-09 16:52:40,413 - INFO - ====== WebDriver manager ======
+2026-03-09 16:52:40,720 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-09 16:52:40,881 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-09 16:52:41,028 - INFO - Driver [/Users/arunkumartepan/.wdm/gw1/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-09 16:52:43,173 - INFO - Logging in using Demo User
+2026-03-09 16:52:45,971 - INFO - Login successful
+2026-03-09 16:52:51,366 - INFO - Logging in using Demo User
+2026-03-09 16:52:57,949 - INFO - Login successful
+2026-03-09 16:52:58,414 - INFO - Logging in using Demo User
+2026-03-09 16:53:01,180 - INFO - Login successful
+2026-03-09 16:53:01,603 - INFO - Opening cart
+2026-03-09 16:53:03,689 - INFO - Validating products inside cart
+2026-03-09 16:53:03,735 - INFO - Validating subtotal value
+2026-03-09 16:53:03,763 - INFO - Clicking checkout button
+2026-03-09 16:53:05,867 - INFO - Entering shipping details
+2026-03-09 16:53:06,371 - INFO - Downloading receipt
+2026-03-09 16:53:12,648 - INFO - Opening cart
+2026-03-09 16:53:14,558 - INFO - Validating receipt download
+2026-03-09 16:53:14,727 - INFO - Validating products inside cart
+2026-03-09 16:53:14,748 - INFO - Validating subtotal value
+2026-03-09 16:53:14,762 - INFO - Clicking checkout button
+2026-03-09 16:53:16,810 - INFO - Entering shipping details
+2026-03-09 16:53:17,700 - INFO - xdist worker is: gw2
+2026-03-09 16:53:17,701 - INFO - ====== WebDriver manager ======
+2026-03-09 16:53:17,918 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-09 16:53:18,046 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-09 16:53:18,169 - INFO - Driver [/Users/arunkumartepan/.wdm/gw2/drivers/chromedriver/mac64/145.0.7632.117/chromedriver-mac-arm64/chromedriver] found in cache
+2026-03-09 16:53:20,333 - INFO - Logging in using Demo User
+2026-03-09 16:53:33,982 - INFO - Login successful
+2026-03-09 16:53:47,459 - INFO - Opening cart
+2026-03-09 16:53:49,514 - INFO - Validating products inside cart
+2026-03-09 16:53:49,543 - INFO - Validating subtotal value
+2026-03-09 16:53:49,557 - INFO - Clicking checkout button
+2026-03-09 16:53:51,597 - INFO - Entering shipping details
+2026-03-09 16:53:51,821 - INFO - Downloading receipt
+2026-03-09 16:54:01,498 - INFO - Validating receipt download
+2026-03-09 16:54:01,499 - INFO - Clicking continue shopping
+2026-03-09 16:54:03,579 - INFO - Validating user returned to home page

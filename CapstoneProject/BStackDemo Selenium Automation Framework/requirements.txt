@@ -1,0 +1,22 @@
+# requirements.txt
+#
+# This file lists all Python dependencies required to run
+# the Selenium Pytest automation framework.
+# Install all packages using:
+# pip install -r requirements.txt
+
+# Selenium WebDriver library used for browser automation
+# Enables interaction with web elements such as click, send_keys, etc.
+selenium
+
+# Pytest testing framework used for writing and executing test cases
+# Provides fixtures, parameterization, assertions, and test discovery
+pytest
+
+# Plugin for pytest used to generate HTML test execution reports
+# The report is configured in pytest.ini and saved in the reports folder
+pytest-html
+
+# Automatically downloads and manages browser drivers (e.g., ChromeDriver)
+# Eliminates the need to manually install and configure drivers
+webdriver-manager
